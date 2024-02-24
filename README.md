@@ -1,3 +1,7 @@
+#Country Explorer iOS App
+
+Welcome to Country Explorer, your go-to app for exploring detailed information about countries around the world right from your iOS device. With this app, you can effortlessly browse through a comprehensive list of countries and access detailed information about each country with just a tap. Additionally, you have the option to mark your favorite countries for quick access to their information.
+
 <img src="https://github.com/gaurav-afk/FavouriteCountries/assets/65609530/4b8733e8-ffab-447f-9c6b-8739f49667e2" width="250" height="550">
 <img src="https://github.com/gaurav-afk/FavouriteCountries/assets/65609530/57f190c8-fecc-4d83-8168-c6a4af8b43b5" width="250" height="550">
 <img src="https://github.com/gaurav-afk/FavouriteCountries/assets/65609530/9f9d02ea-0221-4601-94db-90b27586c4d2" width="250" height="550">
